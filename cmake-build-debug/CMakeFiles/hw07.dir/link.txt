@@ -1,1 +1,0 @@
-/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/hw07.dir/hw07.cpp.o  -o ../out/hw07.exe -Wl,--out-implib,libhw07.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
